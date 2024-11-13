@@ -1,0 +1,68 @@
+file found
+rom loaded succesfully
+80 37 12 40
+ClockRate=f
+Version:1444
+CRC: 635a2bff 8b022326
+name: SUPER MARIO 64      
+Manufacturer: Nintendo
+Cartridge_ID: 4d53
+Country : United States
+size: 4096
+PC= 80246000
+md5 code:20B854B239203BAF6C961B850A4A51A2
+eeprom type:0
+memory initialized
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+demarrage r4300
+dynamic recompiler
+PC=0:3c1a8032
+reg[ 0]:       0       0        reg[16]:ffffffff80204cc0
+reg[ 1]:       010000000        reg[17]:ffffffff80204ca0
+reg[ 2]:       0      ff        reg[18]:       0      ff
+reg[ 3]:ffffffff803331b0        reg[19]:ffffffff80204cb0
+reg[ 4]:       0       3        reg[20]:       0       3
+reg[ 5]:ffffffff802228d4        reg[21]:       0       0
+reg[ 6]:fffffffffffffff0        reg[22]:       0       3
+reg[ 7]:       0       1        reg[23]:       0       3
+reg[ 8]:       0       3        reg[24]:ffffffff80361fa8
+reg[ 9]:ffffffff80361faa        reg[25]:ffffffff8033327c
+reg[10]:       0       1        reg[26]:ffffffffa430000c
+reg[11]:ffffffff80361fb8        reg[27]:       0     aaa
+reg[12]:       0       4        reg[28]:       0       0
+reg[13]:ffffffff80204ccc        reg[29]:ffffffff80204c30
+reg[14]:ffffffff8033324c        reg[30]:       0      ff
+reg[15]:       0       3        reg[31]:ffffffff8031fe54
+hi:       0       1        lo:       0       0
+après 528538900 instructions soit 1f80dd14
+
+ABI set to AutoDetect
